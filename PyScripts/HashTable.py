@@ -1,3 +1,6 @@
+import copy
+
+
 class HashTable:
     """
     Class to hold the Inventory and keep the time complexity to O(1) for lookups.
@@ -31,3 +34,10 @@ class HashTable:
         bucket_list = self.table[bucket]
         if key in bucket_list:
             bucket_list.remove(key)
+
+    def __str__(self):
+        q = []
+        for i in range(len(self.table)):
+            if len(self.table[i]) > 0:
+                q.append(copy.copy(self.table[i][0][1]))
+        return str(q)
