@@ -1,3 +1,6 @@
+# BINDER LINK TO VOILA VERSION
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Catch22Software/CapStone/master?labpath=voila%2Frender%2FCapStone%2FC964_Final_Product.ipynb)
+
 # CapStone
 - C964_Final_Product.ipynb is main notebook file.
 
@@ -36,6 +39,10 @@ frozenset to only use combinations instead of permutations.
 - James Mills
 ## DATE
 - January 2022
+
+####Backup Binder URL
+
+https://mybinder.org/v2/gh/Catch22Software/CapStone/master?labpath=voila%2Frender%2FCapStone%2FC964_Final_Product.ipynb
 
 
 
