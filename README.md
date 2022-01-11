@@ -32,9 +32,9 @@ From this all of the queries to provide recommendations are done correctly using
 frozenset to only use combinations instead of permutations.
 
 
-##AUTHOR
+## AUTHOR
 - James Mills
-##DATE
+## DATE
 - January 2022
 
 
