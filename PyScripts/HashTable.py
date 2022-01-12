@@ -1,4 +1,5 @@
 import copy
+import operator
 
 
 class HashTable:
@@ -40,4 +41,5 @@ class HashTable:
         for i in range(len(self.table)):
             if len(self.table[i]) > 0:
                 q.append(copy.copy(self.table[i][0][1]))
-        return str(q)
+        q_sort = sorted(q, key=operator.itemgetter(0))
+        return str(q_sort)
