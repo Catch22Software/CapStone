@@ -44,5 +44,9 @@ frozenset to only use combinations instead of permutations.
 
 https://mybinder.org/v2/gh/Catch22Software/CapStone/master?labpath=voila%2Frender%2FCapStone%2FC964_Final_Product.ipynb
 
-
-
+##### DEDICATION
+-I want to thank my beautiful fiancée, Vennessa, for ALWAYS being there for me. Even
+through all of the long, gruelling nights or non-stop computer time to get my degree
+finished. I could never have done this without her and her support!! Looking forward
+to our next chapter over the horizon!!! I love you 
+3.14159265 ♥♥♥
