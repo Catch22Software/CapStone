@@ -1,6 +1,6 @@
 # BINDER LINK TO VOILA VERSION
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Catch22Software/CapStone/master?labpath=voila%2Frender%2FCapStone%2FC964_Final_Product.ipynb)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Catch22Software/CapStone/HEAD?labpath=voila%2Frender%2FCapStone%2FC964_Final_Product.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Catch22Software/CapStone/HEAD?urlpath=voila%2Frender%2FCapStone%2FC964_Final_Product.ipynb)
 # CapStone
 - C964_Final_Product.ipynb is main notebook file.
 
@@ -42,7 +42,7 @@ frozenset to only use combinations instead of permutations.
 
 ####Backup Binder URL
 
-https://mybinder.org/v2/gh/Catch22Software/CapStone/master?labpath=voila%2Frender%2FCapStone%2FC964_Final_Product.ipynb
+
 
 ##### DEDICATION
 -I want to thank my beautiful fiancée, Vennessa, for ALWAYS being there for me. Even
