@@ -15,11 +15,6 @@
 - WordCloudGeneration.py created the WordCloud image used in the main .ipynb file.
 - HashTable.py is used to create a searchable Inventory using O(1) complexity.
 
-# OTHER NOTEBOOKS
-
-Files will be dropped once output data is utilized to add examples to supporting document.
-
-
 ### NOTE
 
 Pandas handles writing a csv file that contains Python frozenset in a weird way.
